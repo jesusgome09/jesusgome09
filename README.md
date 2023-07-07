@@ -1,5 +1,5 @@
 # Hola, mi nombre es Jesús Gómez 👋
-### Freelance junior xD
+### Aprendiz en python xD
 
 
 Proximo ingeniero de sistemas de la universidad nacional abierta y a distncia
