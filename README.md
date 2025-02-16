@@ -1,12 +1,10 @@
 # Hola, mi nombre es Jesús Gómez 👋
-### Aprendiz en python xD
-
-
-Proximo ingeniero de sistemas de la universidad nacional abierta y a distncia
-
-Actualmente estoy aprendiendo python desde 0
-
-![Aqui](https://github.com/mouredev/mouredev/blob/master/python_banner.png)
+- ### Tecnico en Sistemas
+- ### Ingeniero en Sistemas
+- ### Desarrollador móvil
+- ### Desarrollador Web
+  
+Actualmente estoy en un proyecto web llamado unimate el cual tiene mestas de estar disponible dentro de 6 meses como maximo 🤗
 
 ### Tecnologias
 
