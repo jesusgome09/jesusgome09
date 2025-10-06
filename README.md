@@ -35,15 +35,15 @@ Sueño con crecer como profesional, ayudar a mi familia, y dejar una huella con 
 ---
 
 ### 📈 Estadísticas de GitHub
-![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusGome09&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusGome09&layout=compact&theme=tokyonight)
+![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusGome09&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusGome09&layout=compact&theme=merko)
 
 ---
 
 ### 🧠 Actualmente aprendiendo
 - Arquitectura de Computadores ⚙️  
 - Desarrollo Backend con FastAPI 🧩  
-- Android con Kotlin y Jetpack Compose 📱  
+- Android con Kotlin y Jetpack Compose 📱
 
 ---
 
@@ -62,3 +62,5 @@ Sueño con crecer como profesional, ayudar a mi familia, y dejar una huella con 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![Gmail](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesuseliasgomezcogollo@gmail.com)
+[![Jesús Gómez | Heladería App Dev](https://img.shields.io/badge/🧁_JesúsGómez_|_Heladería_App_Dev-ff69b4?style=for-the-badge&logo=android&logoColor=white)]()
+
